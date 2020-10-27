@@ -3,6 +3,10 @@ ROIIM Assignment
 
 Hosted on "http://18.222.211.178:8080/"
 
+1. Used Java Springboot with Maven build tool for creating REST API's.
+2. Used MySQL as an data base.
+3. Used Spring Data JPA and Hibernate for accessing the tables in the databases.
+
 Requiremnts for running this project
 
 1. Java JDK 15 should be installed
