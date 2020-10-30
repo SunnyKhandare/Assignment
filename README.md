@@ -1,7 +1,8 @@
 # Assignment
 ROIIM Assignment 
 
-Hosted on "http://18.222.211.178:8080/"
+Previously it was hosted on "http://18.222.211.178:8080/"
+But since Ip has been changed, now it is hosted on "http://3.17.55.77:8080/"
 
 1. Used Java Springboot with Maven build tool for creating REST API's.
 2. Used MySQL as an data base.
